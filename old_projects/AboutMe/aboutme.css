@@ -1,0 +1,20 @@
+#bigtitle{
+   font-size: 30pt;
+   text-align: center;
+}
+body{
+    background-color:antiquewhite;
+}
+.fishname{
+    color: rgb(0, 150, 0);
+}
+
+.importantabout{
+    font-weight: bold;
+}
+h1{
+    font-size: 20pt;
+}
+#myname{
+    font-style: italic;
+}
